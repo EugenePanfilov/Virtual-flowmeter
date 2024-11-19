@@ -1,0 +1,52 @@
+/.ipynb_checkpoints
+/ArchivedData
+/InterpolatedData
+/InterpolatedData (part 1)
+/InterpolatedData (part 2)
+/InterpolatedData2
+/InterpolatedData3
+/InterpolatedData4
+/Данные от Артёма
+Data_2022-2023.xlsx
+InterpolatedData (part 1).7z
+InterpolatedData (part 2).7z
+InterpolatedData2.7z
+InterpolatedData3.7z
+InterpolatedData4.7z
+InterpolatedData7.7z
+interpolated_data.csv
+interpolated_data_4.csv
+interpolated_data_5.csv
+interpolated_data_tl1.csv
+interpolated_data_tl2.csv
+lr.joblib
+rf.joblib
+scaler.pkl
+xb.joblib
+xb22.joblib
+xb7.joblib
+Архив.ipynb
+Блок-схема модуля обучения модели.txt
+Виртуальный расходомер (1).ipynb
+Виртуальный расходомер (2).ipynb
+Виртуальный расходомер ТЛ1  2023.08-2023.10 - eda.ipynb
+Виртуальный расходомер ТЛ1 - eda rf sep-well.ipynb
+Виртуальный расходомер ТЛ1 2022.08-2023.08 - eda lightgbm sep-well.ipynb
+Виртуальный расходомер ТЛ1 2022.08-2023.08 - eda lstm sep-well.ipynb
+Виртуальный расходомер ТЛ1 2022.08-2023.08 - eda ml sep-well.ipynb
+Виртуальный расходомер ТЛ1 2022.08-2023.08 - eda ml well.ipynb
+Виртуальный расходомер ТЛ1 2022.08-2023.08 - eda ml.ipynb
+Виртуальный расходомер ТЛ1 2022.08-2023.08 - eda time series forecasting.ipynb
+Виртуальный расходомер ТЛ1 2022.08-2023.08 - eda xgboost - 7 parameters.ipynb
+Виртуальный расходомер ТЛ1 2022.08-2023.08 - eda xgboost sep-well.ipynb
+Виртуальный расходомер ТЛ1 2022.08-2023.08 - первичный анализ.ipynb
+Виртуальный расходомер ТЛ2  2023.11.21-2024.01.24- eda.ipynb
+Виртуальный расходомер ТЛ2 2022.08-2023.08 - eda.ipynb
+контракты_архитектура.drawio.png
+Модуль для реализации в продукте.ipynb
+Модуль обучения ML-модели.ipynb
+План работы над проектом Виртуальный расходомер.txt
+План работы.txt
+План создания нейронной сети LSTM для виртуального расходомера.txt
+Тест МЛ модели версии.docx
+        	
